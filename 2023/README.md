@@ -4,3 +4,4 @@ Welcome! Add your name to this list, keeping the list in alphabetical order:
 
 - Sage Abdullah
 - Thibaud Colas
+- Sambhav Kaushik
